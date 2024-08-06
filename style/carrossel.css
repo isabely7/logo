@@ -43,3 +43,33 @@ padding: 1em 0 0.5em 0;
     margin: 1em;
     padding: 1em;
 }
+
+.descricao__titulo{
+    color: var(--laranja);
+    font-weight: 700;
+
+}
+
+.descricao__titulo-livro{
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em;
+}
+
+.descricao__texto{
+    font-size: 14px;
+}
+
+.botoes__item{
+    margin: 0 0.5em;
+    list-style-type: none;
+}
+
+.botoes__ancora{
+    background-color: var(--laranja);
+    padding: 1em 2.2em;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+}
